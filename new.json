@@ -1,0 +1,10 @@
+{
+  "person": [
+    "Borisov",
+    "Andrei",
+    "Alexandrovich"
+  ],
+  "age": 42,
+  "number of pets": 0,
+  "expected salary": 50000
+}
